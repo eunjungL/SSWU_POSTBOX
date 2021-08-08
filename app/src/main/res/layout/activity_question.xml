@@ -73,7 +73,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/elicedigitalbaseum_regular"
                     android:text="이은정"
-                    android:textSize="9pt"
+                    android:textSize="8pt"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
                 <TextView
@@ -81,7 +81,7 @@
                     android:layout_height="wrap_content"
                     android:text="dldmswjd322@naver.com"
                     android:fontFamily="@font/elicedigitalbaseum_regular"
-                    android:textSize="8pt"
+                    android:textSize="7pt"
                     android:textColor="@color/black"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -89,7 +89,7 @@
                     android:layout_marginTop="10dp"
                     android:fontFamily="@font/elicedigitalbaseum_regular"
                     android:text="김채은"
-                    android:textSize="9pt"
+                    android:textSize="8pt"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
                 <TextView
@@ -97,7 +97,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/elicedigitalbaseum_regular"
                     android:text="rlacodms3447@naver.com"
-                    android:textSize="8pt"
+                    android:textSize="7pt"
                     android:textColor="@color/black"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -105,7 +105,7 @@
                     android:layout_marginTop="9dp"
                     android:fontFamily="@font/elicedigitalbaseum_regular"
                     android:text="조유진"
-                    android:textSize="10pt"
+                    android:textSize="8pt"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
                 <TextView
@@ -113,7 +113,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/elicedigitalbaseum_regular"
                     android:text="topjoy22@nave.com"
-                    android:textSize="8pt"
+                    android:textSize="7pt"
                     android:textColor="@color/black"/>
             </LinearLayout>
         </FrameLayout>

@@ -133,6 +133,7 @@
             android:gravity="center_vertical"
             android:layout_marginLeft="17dp"
             android:layout_marginRight="20dp"
+            android:checked="true"
             android:text="알림 설정"
             android:thumbTint="@color/crystal_blue" />
         <View
